@@ -1,16 +1,34 @@
-### Hi there 👋
+# About Me
 
-<!--
-**RizzwareEngineer/RizzwareEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applying my experience in ML/AI Research and Software Engineering to develop backend infrastructure within:**
+- Generative AI
+- Large Language Models
+- ML Infrastructure
+- Data Infrastructure
+- Distributed Systems
 
-Here are some ideas to get you started:
+> [!CAUTION]
+> I'm an avid frontend hater.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+**I also develop applications exploring novel use cases of Generative AI, including:**
+
+#### [PixeLana](https://github.com/RizzwareEngineer/PixeLana) 
+A multiplayer drawing game where Stable Diffusion meets the Solana blockchain, allowing players to collaboratively create and trade AI-generated artwork as NFTs. 
+
+_Awarded "1st Place Best Overall" and "Best in Programmatic Art" at HackIllinois 2024 (University of Illinois at Urbana-Champaign)._
+
+> PyTorch, TypeScript, Rust, Stable Diffusion, Solana Blockchain
+
+> [!NOTE]
+> This repository is the final version of PixeLana submitted to [HackIllinois 2024](https://hackillinois-2024.devpost.com/). PixeLana will be revamped for [Renaissance](https://www.colosseum.org/renaissance), a global online hackathon hosted by the Solana Foundation! Our production repository for Renaissance is currently private. We will publicize our work some time on or after March 11, 2024 to protect ourselves of plagiarism. 
+
+#### [Wonderland](https://github.com/RizzwareEngineer/wonderland)
+A collaborative Stable Diffusion canvas where multiple users can simultaneously generate and modify images through text prompts. 
+
+_Awarded "1st Place Best Overall" and "Best in Programmatic Art" at Uncommon Hacks 2023 (University of Chicago)._
+
+> PyTorch, TypeScript, Socket.IO, Stable Diffusion
+
+> [!NOTE]
+> This repository is the final version of Wonderland submitted to [Uncommon Hacks 2023](). I plan to either continue development of Wonderland directly  or recycle it as the base of more fleshed-out version.
