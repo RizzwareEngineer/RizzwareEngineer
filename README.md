@@ -24,7 +24,7 @@ _Awarded "1st Place Best Overall" at HackIllinois 2024 (University of Illinois a
 > This repository is the final version of PixeLana submitted to [HackIllinois 2024](https://hackillinois-2024.devpost.com/). PixeLana will be revamped for [Renaissance](https://www.colosseum.org/renaissance), a global online hackathon hosted by the Solana Foundation! Our production repository for Renaissance is currently private. We will publicize our work some time on or after March 11, 2024 to protect ourselves of plagiarism. 
 
 #### [Wonderland](https://github.com/RizzwareEngineer/wonderland)
-A collaborative Stable Diffusion canvas where multiple users can simultaneously generate and modify images through text prompts. 
+A collaborative Stable Diffusion canvas where multiple users can simultaneously generate and modify the same images through text prompts. 
 
 _Awarded "1st Place Best Overall" and "Best in Programmatic Art" at Uncommon Hacks 2023 (University of Chicago)._
 
