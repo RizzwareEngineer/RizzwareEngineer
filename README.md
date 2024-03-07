@@ -14,7 +14,7 @@
 **I also develop applications exploring novel use cases of Generative AI, including:**
 
 #### [PixeLana](https://github.com/RizzwareEngineer/PixeLana) 
-A multiplayer drawing game where Stable Diffusion meets the Solana blockchain, allowing players to collaboratively create and trade AI-generated artwork as NFTs. 
+A multiplayer drawing game where players alternate submitting prompts and using Stable Diffusion to generate the best images fitting those prompts; winners will have their creations minted on the Solana Blockchain!
 
 _Awarded "1st Place Best Overall" and "Best in Programmatic Art" at HackIllinois 2024 (University of Illinois at Urbana-Champaign)._
 
