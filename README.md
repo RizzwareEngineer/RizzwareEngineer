@@ -31,4 +31,4 @@ _Awarded "1st Place Best Overall" and "Best in Programmatic Art" at Uncommon Hac
 > PyTorch, TypeScript, Socket.IO, Stable Diffusion
 
 > [!NOTE]
-> This repository is the final version of Wonderland submitted to [Uncommon Hacks 2023](). I plan to either continue development of Wonderland directly  or recycle it as the base of more fleshed-out version.
+> This repository is the final version of Wonderland submitted to [Uncommon Hacks 2023](https://github.com/RizzwareEngineer/wonderland). I plan to either continue development of Wonderland directly  or recycle it as the base of more fleshed-out version.
