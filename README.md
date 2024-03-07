@@ -16,7 +16,7 @@
 #### [PixeLana](https://github.com/RizzwareEngineer/PixeLana) 
 A multiplayer drawing game where players alternate submitting prompts and using Stable Diffusion to generate the best images fitting those prompts; winners will have their creations minted on the Solana Blockchain!
 
-_Awarded "1st Place Best Overall" and "Best in Programmatic Art" at HackIllinois 2024 (University of Illinois at Urbana-Champaign)._
+_Awarded "1st Place Best Overall" at HackIllinois 2024 (University of Illinois at Urbana-Champaign)._
 
 > PyTorch, TypeScript, Rust, Stable Diffusion, Solana Blockchain
 
