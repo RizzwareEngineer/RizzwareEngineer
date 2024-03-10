@@ -8,7 +8,7 @@
 - Distributed Systems
 
 > [!CAUTION]
-> I'm an avid frontend hater.
+> I'm an avid frontend and mobile development hater. 🤗 
 
 ## Projects
 **I also develop applications exploring novel use cases of Generative AI, including:**
