@@ -20,7 +20,7 @@ _Awarded "1st Place Best Overall" at HackIllinois 2024 (University of Illinois a
 
 > PyTorch, TypeScript, Rust, Stable Diffusion, Solana Blockchain
 
-> [!NOTE]
+> [!IMPORTANT]
 > This repository is the final version of PixeLana submitted to [HackIllinois 2024](https://hackillinois-2024.devpost.com/). PixeLana will be revamped for [Renaissance](https://www.colosseum.org/renaissance), a global online hackathon hosted by the Solana Foundation! Our production repository for Renaissance is currently private. We will publicize our work some time on or after March 11, 2024 to protect ourselves of plagiarism. 
 
 #### [Wonderland](https://github.com/RizzwareEngineer/wonderland)
@@ -30,5 +30,5 @@ _Awarded "1st Place Best Overall" and "Best in Programmatic Art" at Uncommon Hac
 
 > PyTorch, TypeScript, Socket.IO, Stable Diffusion
 
-> [!NOTE]
+> [!IMPORTANT]
 > This repository is the final version of Wonderland submitted to [Uncommon Hacks 2023](https://github.com/RizzwareEngineer/wonderland). I plan to either continue development of Wonderland directly  or recycle it as the base of more fleshed-out version.
