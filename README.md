@@ -13,6 +13,17 @@
 # Projects
 **I also develop applications exploring novel use cases of Generative AI, including:**
 
+## [DilemmAI](https://github.com/RizzwareEngineer/dilemmAI)
+A playable demonstration of the Prisoner's Dilemma and Axelrod's Tournament that abstracts the requirement for players to know how to code and instead empowers players to develop strategies for their agents via natural language. 
+
+_Awarded "1st Place Best Overall" at Uncommon Hacks 2024 (University of Chicago)._
+
+> PyTorch, TypeScript, Socket.IO, MongoDB, Large Language Models
+
+> [!IMPORTANT]
+> This repository is the final version of DilemmAI submitted to [Uncommon Hacks 2024](https://uncommon-hacks-2024.devpost.com/). I plan to either continue development of Wonderland directly  or recycle it as the base of more fleshed-out version.
+
+
 ## [PixeLana](https://github.com/RizzwareEngineer/PixeLana) 
 A multiplayer drawing game where players alternate submitting prompts and using Stable Diffusion to generate the best images fitting those prompts; winners will have their creations minted on the Solana Blockchain!
 
