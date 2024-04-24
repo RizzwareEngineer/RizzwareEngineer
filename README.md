@@ -1,11 +1,11 @@
 # About Me
 
-**Applying my experience in ML/AI Research and Software Engineering to develop backend infrastructure within:**
-- Generative AI
-- Large Language Models
-- ML Infrastructure
-- Data Infrastructure
-- Distributed Systems
+**Incoming SWE Intern @ LinkedIn [ML Training Platform]**
+
+Constantly stalking arXiv & Hugging Face for breakthroughs in: 
+* Generative AI
+* DL Architecture
+* Inference Acceleration
 
 > [!CAUTION]
 > I'm an avid frontend and mobile development hater. 🤗 
