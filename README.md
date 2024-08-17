@@ -1,6 +1,6 @@
 # About Me
 
-**Incoming SWE Intern @ LinkedIn [ML Training Platform]**
+**SWE Intern @ LinkedIn [ML Training Platform]**
 
 Constantly stalking arXiv & Hugging Face for breakthroughs in: 
 * Generative AI
