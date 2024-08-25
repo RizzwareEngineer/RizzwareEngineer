@@ -1,6 +1,6 @@
 # About Me
 
-**SWE Intern @ LinkedIn [ML Training Platform]**
+**Software Engineering Intern @ LinkedIn [ML Training Platform]**
 
 Constantly stalking arXiv & Hugging Face for breakthroughs in: 
 * LLM Architectures
