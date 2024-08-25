@@ -3,9 +3,9 @@
 **SWE Intern @ LinkedIn [ML Training Platform]**
 
 Constantly stalking arXiv & Hugging Face for breakthroughs in: 
-* Generative AI
-* DL Architecture
+* LLM Architectures
 * Inference Acceleration
+* AI Chips
 
 > [!CAUTION]
 > I'm an avid frontend and mobile development hater. 🤗 
