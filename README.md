@@ -1,6 +1,8 @@
 # About Me
 
-**Software Engineering Intern @ LinkedIn [AI Training Platform]**
+**Software Engineering Intern @ LinkedIn [AI Training Platform]** 
+
+Building ML Infrastructure to accelerate AI Research.
 
 Constantly stalking arXiv & Hugging Face for breakthroughs in: 
 * LLM Architectures
@@ -11,7 +13,7 @@ Constantly stalking arXiv & Hugging Face for breakthroughs in:
 > I'm an avid frontend and mobile development hater. 🤗 
 
 # Projects
-**I also develop applications exploring novel use cases of Generative AI, including:**
+I also develop applications exploring novel use cases of Generative AI, including:
 
 ## [DilemmAI](https://github.com/RizzwareEngineer/dilemmAI)
 A playable demonstration of the Prisoner's Dilemma and Axelrod's Tournament that abstracts the requirement for players to know how to code and instead empowers players to develop strategies for their agents via natural language. 
