@@ -1,13 +1,7 @@
-# About Me
+### What is up, fam 🤗
 
-**Software Engineering Intern @ LinkedIn [AI Training Platform]** 
+**Optimizing AI Infrastructure for distributed GPU training and inference to ultimately accelerate Generative AI research.**
 
-Optimizing AI Infrastructure to accelerate GenAI Research.
 
-Constantly stalking arXiv & Hugging Face for breakthroughs in: 
-* LLM Architectures
-* Inference Acceleration
-* AI Chips
-
-# Projects
-I'll be working on some open source stuff.
+- ? Software Engineer @ <>
+- 🏋️ Software Engineering Intern @ LinkedIn [AI Training Platform]
