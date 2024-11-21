@@ -2,4 +2,4 @@ Via open source & big tech, optimizing AI Infrastructure for distributed GPU tra
 
 
 > [!NOTE]
-> Working on an open source project & a personal project -- I'll showcase them here sooner or later! 🍿🤗
+> Working on an open source project & a personal project; I'll showcase them here soon! 🍿🤗
