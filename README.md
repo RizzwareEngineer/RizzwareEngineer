@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Via open source & big tech, optimizing AI Infrastructure for distributed GPU training & inference to accelerate GenAI research.
+> Distributed GPU training & inference to accelerate AI research & infrastructure - via open source & big tech.
 
 
 > [!NOTE]
