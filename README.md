@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Interested in GPU kernels to accelerate training & inference, AI infrastructure, and open source.
+> GPU kernels for distributed training & inference, AI infrastructure, HPC, & open source.
 
 > [!NOTE]
 > Working on an open source project & a personal project; I'll showcase them here soon! 🍿🤗
