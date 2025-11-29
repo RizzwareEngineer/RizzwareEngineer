@@ -1,8 +1,8 @@
 > [!IMPORTANT]
-> GPU kernels for distributed training & inference, AI infrastructure, HPC, & open source.
+> Software Engineer @ Meta interested in LLMs, AI/ML Infrastructure (training & inference), content recommendation systems, & everything open source AI.
 
 > [!NOTE]
-> Working on an open source project & a personal project; I'll showcase them here soon! 🍿🤗
+> Building [No-LLMit](https://github.com/RizzwareEngineer/No-LLMit) - spectate (or, soon, play) SOTA LLMs in a No Limit Texas Hold'em cash game (or, soon, tournament)!
 
 > [!TIP]
 > In other news, check out my 1st-place hackathon projects! 
