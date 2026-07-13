@@ -1,7 +1,13 @@
 > [!IMPORTANT]
-> Software Engineer @ Meta interested in LLMs, AI/ML Infrastructure (training & inference), content recommendation systems, & everything open source AI.
+> Currently, Forward Deployed Engineer @ Harper (YC W25)
+> 
+> Previously, Software Engineer @ Meta
+> 
+> Interested in LLMs, AI/ML Infrastructure (training & inference), content recommendation systems, & everything open source AI.
 
 > [!NOTE]
+> Building Whetstone - a platform to sharpen your trades on prediction markets.
+> 
 > Building [No-LLMit](https://github.com/RizzwareEngineer/No-LLMit) - spectate (or play against) SOTA LLMs in a No Limit Texas Hold'em cash game (or, soon, tournament)!
 
 > [!TIP]
