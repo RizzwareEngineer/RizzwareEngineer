@@ -3,7 +3,7 @@
 > 
 > Previously, Software Engineer @ Meta
 > 
-> Interested in LLMs, AI/ML Infrastructure, recommendation systems, & everything open source AI
+> LLMs, AI/ML Infrastructure, content recommendation systems, & everything open source AI
 
 > [!NOTE]
 > Building Whetstone - a platform to sharpen your trades on prediction markets.
