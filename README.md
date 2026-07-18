@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Currently, Forward Deployed Engineer @ Harper (YC W25)
+> Currently, Member of Technical Staff @ [Harper (YC W25)](https://www.harperinsure.com/)
 > 
 > Previously, Software Engineer @ Meta
 > 
