@@ -16,4 +16,4 @@
 > - [Uncommon Hacks 2024](https://devpost.com/software/dilemmai)
 
 > [!CAUTION]
-> No, I'm not purposefully inflating my contributions graph; I'm just lazy to take down some PR automations I've made years ago. 
+> I'm not purposefully inflating my contributions graph; I'm just lazy to take down some PR automations I made years ago. 
