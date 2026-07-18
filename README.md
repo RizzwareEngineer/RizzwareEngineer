@@ -14,3 +14,6 @@
 > In other news, check out my 1st-place hackathon projects! 
 > - [HackIllinois 2024](https://devpost.com/software/pixelana)
 > - [Uncommon Hacks 2024](https://devpost.com/software/dilemmai)
+
+> [!CAUTION]
+> No, I'm not purposefully inflating my contributions graph; I'm just lazy to take down some PR automations I've made years ago. 
